@@ -1,24 +1,9 @@
-# simple-shopping-list
-Start/final code for simple shopping list react project
+reactを使った簡単なショッピングリストです。
+使用技術
+- react
+- react-hooks
 
-
-Run the starter code:
-
-```
-- cd simple-shopping-list/starter
-
-- npm install
-
-- npm start
-```
-
-Run the starter code:
-
-```
-- cd simple-shopping-list/final
-
-- npm install
-
-- npm start
-```
-
+要件
+- 「アイテムの追加」に入力して「+」記号をクリックすることにより、リストに新しいアイテムを追加できる
+- 特定のアイテムの数量を増減できる必要がある
+- 合計には、リスト内のすべてのアイテムの合計数量が表示される。
