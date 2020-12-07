@@ -1,4 +1,5 @@
 reactを使った簡単なショッピングリストです。
+![sample](https://user-images.githubusercontent.com/49203635/101323548-3cc4e880-38ac-11eb-9df3-1079fd2881f0.gif)
 
 フォルダ説明
 - stater チュートリアル開始時のフォルダです。このフォルダにコードを書き足す事でチュートリアルを進めていきます。
