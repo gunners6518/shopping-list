@@ -14,3 +14,8 @@ reactを使った簡単なショッピングリストです。
 - 合計には、リスト内のすべてのアイテムの合計数量が表示される。
 
 ![sample](https://user-images.githubusercontent.com/49203635/101323548-3cc4e880-38ac-11eb-9df3-1079fd2881f0.gif)
+
+
+解説記事
+[【 React Hooks入門】useStateを使って買い物リストを作るチュートリアル
+](https://terrblog.com/%e3%80%90-react-hooks%e5%85%a5%e9%96%80%e3%80%91usestate%e3%82%92%e4%bd%bf%e3%81%a3%e3%81%a6%e8%b2%b7%e3%81%84%e7%89%a9%e3%83%aa%e3%82%b9%e3%83%88%e3%82%92%e4%bd%9c%e3%82%8b%e3%83%81%e3%83%a5%e3%83%bc/)
